@@ -3,5 +3,5 @@
 
 
 Сам бот: https://t.me/ChainMarkovBot
-\n
+
 Мой телеграм канал: https://t.me/workshop_on_Grisha
