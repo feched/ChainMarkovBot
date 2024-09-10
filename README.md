@@ -1,6 +1,8 @@
 # ChainMarkovBot
 Бот с алгоритмом цепей Маркова
 
+Все находится в ветке master
+
 
 Сам бот: https://t.me/ChainMarkovBot
 
