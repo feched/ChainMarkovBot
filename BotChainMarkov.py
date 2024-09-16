@@ -4,7 +4,7 @@ import telebot
 import os
 import ChainMarkov
 
-bot = telebot.TeleBot('7539804440:AAHNk3lZDvXnUcG9Me3LuLwNlnl2av9YXYM')
+bot = telebot.TeleBot('ВАШ_ТОКЕН')
 
 
 # проверка на то, чтобы бот не отвечал на стикеры и фотографии
